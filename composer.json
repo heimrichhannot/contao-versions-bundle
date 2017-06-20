@@ -27,7 +27,7 @@
     },
     "autoload": {
         "psr-4": {
-            "HeimrichHannot\\NahverkehrstageBundle\\": "src/"
+            "HeimrichHannot\\VersionsBundle\\": "src/"
         },
         "classmap": [
             "src/Resources/contao/"
